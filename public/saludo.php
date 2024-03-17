@@ -43,13 +43,20 @@
                             <td>tomas.gonzalez</td>
                             <td ><a href="#"><i class="fa-solid fa-trash"></i></a> &nbsp; <a href="#"><i class="fa-solid fa-pen-to-square"></i></a></td>
                         </tr>
+                        <?php 
+                        for ($i=2; $i<30;$i++)
+                        {
+                        ?>
                         <tr>
-                            <td scope="row">2</td>
-                            <td>Elia mi vida</td>
+                            <td scope="row"><?=$i?></td>
+                            <td>Elia <?=$i?></td>
                             <td>López Linares</td>
-                            <td>elia.lopez</td>
+                            <td>elia.lopez<?=$i?></td>
                             <td ><a href="#"><i class="fa-solid fa-trash"></i></a> &nbsp; <a href="#"><i class="fa-solid fa-pen-to-square"></i></a></td>
                         </tr>
+                        <?php
+                        }
+                        ?>
                     </tbody>
                 </table>
             </div>
