@@ -10,7 +10,7 @@
     </head>
     <body>
         <!-- Body -->
-        <center><button type="button">agregar</button><button type="button">editar</button></center>
+        <center><button type="button">Insertar</button><button type="button">editar</button></center>
         <table border="1" width="80%" align="center">
             <tr class="fila1">
                 <td class="col1"><a href="#">home</a></td>
