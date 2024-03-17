@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <center>Página de Prueba en Laravel</center>
+    <center>Página de Prueba en Laravel tomas</center>
 </body>
 </html>
