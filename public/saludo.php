@@ -44,7 +44,7 @@
                             <td ><a href="#"><i class="fa-solid fa-trash"></i></a> &nbsp; <a href="#"><i class="fa-solid fa-pen-to-square"></i></a></td>
                         </tr>
                         <?php 
-                        for ($i=2; $i<50;$i++)
+                        for ($i=2; $i<1500;$i++)
                         {
                         ?>
                         <tr>
