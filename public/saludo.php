@@ -44,11 +44,11 @@
                             <td ><a href="#"><i class="fa-solid fa-trash"></i></a> &nbsp; <a href="#"><i class="fa-solid fa-pen-to-square"></i></a></td>
                         </tr>
                         <?php 
-                        for ($i=2; $i<30;$i++)
+                        for ($i=2; $i<50;$i++)
                         {
                         ?>
                         <tr>
-                            <td scope="row"><?=$i?></td>
+                            <td scope="row"><?=$i*2?></td>
                             <td>Elia <?=$i?></td>
                             <td>López Linares</td>
                             <td>elia.lopez<?=$i?></td>
